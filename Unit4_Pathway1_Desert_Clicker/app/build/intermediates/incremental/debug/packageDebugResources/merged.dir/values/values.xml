@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="image_size">150dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <string name="app_name">Dessert Clicker</string>
+    <string name="dessert_sold">Desserts sold</string>
+    <string name="share">Share</string>
+    <string name="share_text">I\'ve clicked %1$d Desserts for a total of $%2$d #AndroidDessertClicker</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="total_revenue">Total Revenue</string>
+    <style name="Theme.DesertClicker" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
