@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Business Card</string>
+
+    <!-- Avatar -->
+    <string name="avatar_desc">Ảnh đại diện</string>
+
+    <!-- User Info -->
+    <string name="user_name">Nguyễn Nghĩa</string>
+    <string name="user_title">IT Developer</string>
+
+    <!-- Contact -->
+    <string name="user_phone">+0902230705</string>
+    <string name="user_email">nghiane.com</string>
+
+</resources>
